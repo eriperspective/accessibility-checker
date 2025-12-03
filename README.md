@@ -85,4 +85,4 @@ SOFTWARE.
 ## Author
 
 Made with ❤️ by **[@eriperspective](https://github.com/eriperspective)**  
-Built with goose AI-assisted development
+Built with goose by Block and Claude by Anthropic AI-powered development.
